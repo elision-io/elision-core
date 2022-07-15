@@ -1,0 +1,9 @@
+# Withdrawing all of the tracking tokens of the BTC/USDT pool from account 1 and creating a bucket of them
+CALL_METHOD ComponentAddress("020d3869346218a5e8deaaf2001216dc00fcacb79fb43e30ded79a") "withdraw_by_amount" Decimal("100") ResourceAddress("03e20463029c34b92f8a0eccd166490d1f9c3e743245942dac6353");
+TAKE_FROM_WORKTOP ResourceAddress("03e20463029c34b92f8a0eccd166490d1f9c3e743245942dac6353") Bucket("tracking_tokens_bucket");
+
+# Calling the `remove_liquidity` on the ElisionExchange component with the tracking tokens
+CALL_METHOD ComponentAddress("0294435ff0ea858b2acad8d0621fabb11056ee30f816d4530de022") "remove_liquidity" Bucket("tracking_tokens_bucket");
+
+# Depositing all of the tokens on the worktop into the account
+CALL_METHOD_WITH_ALL_RESOURCES ComponentAddress("020d3869346218a5e8deaaf2001216dc00fcacb79fb43e30ded79a") "deposit_batch";

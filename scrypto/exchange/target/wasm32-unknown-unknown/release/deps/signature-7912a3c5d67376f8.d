@@ -1,0 +1,11 @@
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/signature-7912a3c5d67376f8.rmeta: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/libsignature-7912a3c5d67376f8.rlib: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/signature-7912a3c5d67376f8.d: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs
+
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/lib.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/error.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signature.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/signer.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/signature-1.5.0/src/verifier.rs:

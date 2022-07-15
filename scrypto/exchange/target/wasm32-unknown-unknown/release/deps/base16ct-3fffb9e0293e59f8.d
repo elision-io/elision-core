@@ -1,0 +1,12 @@
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/base16ct-3fffb9e0293e59f8.rmeta: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/libbase16ct-3fffb9e0293e59f8.rlib: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/base16ct-3fffb9e0293e59f8.d: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs
+
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lib.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/lower.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/mixed.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/upper.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/display.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/base16ct-0.1.1/src/error.rs:

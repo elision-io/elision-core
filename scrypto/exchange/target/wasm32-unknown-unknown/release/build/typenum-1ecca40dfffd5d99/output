@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/build/typenum-1ecca40dfffd5d99/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/build/typenum-1ecca40dfffd5d99/out/op.rs

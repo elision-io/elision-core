@@ -1,0 +1,4 @@
+# Creating a new ElisionExchange component from the package address by calling the `new` function on the blueprint. This `new`
+# function is a function which does not take any arguments nor does it return anything. Meaning that to create a new
+# ElisionExchange all that we need to do is to call the function.
+CALL_FUNCTION PackageAddress("018e8b3aa066fb5d9982bbe103538c455e133ff31d796e9a80f7e6") "ElisionExchange" "new";

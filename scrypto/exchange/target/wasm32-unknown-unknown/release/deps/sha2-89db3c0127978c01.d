@@ -1,0 +1,12 @@
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/sha2-89db3c0127978c01.rmeta: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/libsha2-89db3c0127978c01.rlib: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/riddle/code/rust/scrypto-blueprints/exchange/target/wasm32-unknown-unknown/release/deps/sha2-89db3c0127978c01.d: /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:
+/Users/riddle/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:
