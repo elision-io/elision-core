@@ -21,30 +21,15 @@ pub enum OptionState {
 }
 
 #[derive(TypeId, Encode, Decode, Describe)]
-pub enum TrancheState {
-  Invalid,
-  Open,
-  Closed
-}
-
-#[derive(TypeId, Encode, Decode, Describe)]
-pub struct Tranche {
-  state: TrancheState,
-  amount: Decimal,
-  share: Decimal,
-  created: Timestamp,
-  hedged: Boolean,
-}
-
-#[derive(TypeId, Encode, Decode, Describe)]
-struct OptionPosition {
+struct Option {
   state: OptionState,
   locked_amount: Decimal,
   hedge_premium: Decimal,
   unhedge_premium: Decimal,
   amount: Decimal,
-  created: Timestamp,
-  expired: Timestamp,
+  created_epoch: u64,
+  expiry_epoch: u64,
+  settlement_fee_address: ResourceAddress,
   strike: Decimal,
 }
 
